@@ -124,7 +124,7 @@ export default function Testimonials() {
             return (
               <div
                 key={colIndex}
-                className={`testimonial-column ${colIndex === 1 ? 'scroll-reverse' : 'scroll'} flex flex-col space-y-1`}
+                className={`overflow-hidden testimonial-column ${colIndex === 1 ? 'scroll-reverse' : 'scroll'} flex flex-col space-y-1`}
                 style={{ maskImage: 'linear-gradient(to bottom, transparent 0%, black 128px, black calc(100% - 200px), transparent 100%)' }}
               >
                 {generateTestimonials(testimonials, colIndex)}
