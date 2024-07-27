@@ -87,7 +87,7 @@ export default function Testimonials() {
     return data.map((testimonial, i) => (
       <div key={`${colIndex}-${i}-${testimonial.name}`} className="testimonial-item">
         <div className="rounded-lg shadow bg-[#18181B] relative m-2 fade">
-          <div className="flex flex-col sm:p-6 m-2">
+          <div className={`flex flex-col sm:p-6 m-2`}>
             <div>
               <q className="text-gray-600 dark:text-gray-300">{testimonial.quote}</q>
               <div className="flex items-center gap-3 mt-6 relative">
@@ -124,7 +124,7 @@ export default function Testimonials() {
             return (
               <div
                 key={colIndex}
-                className={`overflow-hidden testimonial-column ${colIndex === 1 ? 'scroll-reverse' : 'scroll'} flex flex-col space-y-1`}
+                className={`overflow-hidden testimonial-column ${colIndex === 1 ? 'scroll-reverse flex-col-reverse' : 'scroll flex-col'} flex space-y-1`}
                 style={{ maskImage: 'linear-gradient(to bottom, transparent 0%, black 128px, black calc(100% - 200px), transparent 100%)' }}
               >
                 {generateTestimonials(testimonials, colIndex)}
