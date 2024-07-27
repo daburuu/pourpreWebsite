@@ -8,7 +8,7 @@ export default function Faq() {
         </div>
         <div className="w-full flex flex-col divide-y divide-gray-200 dark:divide-gray-800 -mt-6 max-w-4xl mx-auto">
           <div className="w-full flex flex-col divide-y divide-gray-200 dark:divide-gray-800">
-            <button type="button" className="focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 flex-shrink-0 font-medium rounded-none gap-x-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 underline-offset-4 focus-visible:ring-inset focus-visible:ring-2 focus-visible:ring-primary-500 dark:focus-visible:ring-primary-400 hover:no-underline inline-flex items-center text-left text-lg py-6 w-full" id="headlessui-disclosure-button-nSZ7s8siktv-0" aria-expanded="true" aria-controls="headlessui-disclosure-panel-nSZ7s8siktv-1">
+            <button type="button" className="focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 flex-shrink-0 font-medium rounded-none gap-x-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 underline-offset-4 focus-visible:ring-inset focus-visible:ring-2 focus-visible:ring-primary-500 dark:focus-visible:ring-primary-400 hover:no-underline inline-flex items-center text-left text-lg py-6 w-full" aria-expanded="true">
               <span className="text-gray-900 dark:text-white font-semibold">Quelle est votre approche pour créer un site web sur mesure ?</span>
               <span className="iconify i-heroicons:chevron-down-20-solid ms-auto transform transition-transform duration-200 flex-shrink-0 mr-1.5 w-6 h-6" aria-hidden="true" ></span>
             </button>
@@ -17,7 +17,7 @@ export default function Faq() {
             </div>
           </div>
           <div className="w-full flex flex-col divide-y divide-gray-200 dark:divide-gray-800">
-            <button type="button" className="focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 flex-shrink-0 font-medium rounded-none gap-x-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 underline-offset-4 focus-visible:ring-inset focus-visible:ring-2 focus-visible:ring-primary-500 dark:focus-visible:ring-primary-400 hover:no-underline inline-flex items-center text-left text-lg py-6 w-full" id="headlessui-disclosure-button-nSZ7s8siktv-2" aria-expanded="false" aria-controls="headlessui-disclosure-panel-nSZ7s8siktv-3">
+            <button type="button" className="focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 flex-shrink-0 font-medium rounded-none gap-x-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 underline-offset-4 focus-visible:ring-inset focus-visible:ring-2 focus-visible:ring-primary-500 dark:focus-visible:ring-primary-400 hover:no-underline inline-flex items-center text-left text-lg py-6 w-full" aria-expanded="false">
               <span className="text-gray-900 dark:text-white font-semibold">Quels types de services proposez-vous ?</span>
               <span className="iconify i-heroicons:chevron-down-20-solid ms-auto transform transition-transform duration-200 flex-shrink-0 mr-1.5 w-6 h-6 -rotate-90" aria-hidden="true" ></span>
             </button>
@@ -26,7 +26,7 @@ export default function Faq() {
             </div>
           </div>
           <div className="w-full flex flex-col divide-y divide-gray-200 dark:divide-gray-800" >
-            <button type="button" className="focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 flex-shrink-0 font-medium rounded-none gap-x-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 underline-offset-4 focus-visible:ring-inset focus-visible:ring-2 focus-visible:ring-primary-500 dark:focus-visible:ring-primary-400 hover:no-underline inline-flex items-center text-left text-lg py-6 w-full" id="headlessui-disclosure-button-nSZ7s8siktv-4" aria-expanded="false" aria-controls="headlessui-disclosure-panel-nSZ7s8siktv-5">
+            <button type="button" className="focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 flex-shrink-0 font-medium rounded-none gap-x-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 underline-offset-4 focus-visible:ring-inset focus-visible:ring-2 focus-visible:ring-primary-500 dark:focus-visible:ring-primary-400 hover:no-underline inline-flex items-center text-left text-lg py-6 w-full" aria-expanded="false">
               <span className="text-gray-900 dark:text-white font-semibold">Combien de temps faut-il pour créer un site web ?</span>
               <span className="iconify i-heroicons:chevron-down-20-solid ms-auto transform transition-transform duration-200 flex-shrink-0 mr-1.5 w-6 h-6 -rotate-90" aria-hidden="true" ></span>
             </button>
@@ -35,7 +35,7 @@ export default function Faq() {
             </div>
           </div>
           <div className="w-full flex flex-col divide-y divide-gray-200 dark:divide-gray-800">
-            <button type="button" className="focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 flex-shrink-0 font-medium rounded-none gap-x-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 underline-offset-4 focus-visible:ring-inset focus-visible:ring-2 focus-visible:ring-primary-500 dark:focus-visible:ring-primary-400 hover:no-underline inline-flex items-center text-left text-lg py-6 w-full" id="headlessui-disclosure-button-nSZ7s8siktv-6" aria-expanded="false" aria-controls="headlessui-disclosure-panel-nSZ7s8siktv-7">
+            <button type="button" className="focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 flex-shrink-0 font-medium rounded-none gap-x-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 underline-offset-4 focus-visible:ring-inset focus-visible:ring-2 focus-visible:ring-primary-500 dark:focus-visible:ring-primary-400 hover:no-underline inline-flex items-center text-left text-lg py-6 w-full" aria-expanded="false">
               <span className="text-gray-900 dark:text-white font-semibold">Proposez-vous des audits de sites web existants ?</span>
               <span className="iconify i-heroicons:chevron-down-20-solid ms-auto transform transition-transform duration-200 flex-shrink-0 mr-1.5 w-6 h-6 -rotate-90" aria-hidden="true" ></span>
             </button>
@@ -44,7 +44,7 @@ export default function Faq() {
             </div>
           </div>
           <div className="w-full flex flex-col divide-y divide-gray-200 dark:divide-gray-800">
-            <button type="button" className="focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 flex-shrink-0 font-medium rounded-none gap-x-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 underline-offset-4 focus-visible:ring-inset focus-visible:ring-2 focus-visible:ring-primary-500 dark:focus-visible:ring-primary-400 hover:no-underline inline-flex items-center text-left text-lg py-6 w-full" id="headlessui-disclosure-button-nSZ7s8siktv-8" aria-expanded="false" aria-controls="headlessui-disclosure-panel-nSZ7s8siktv-9">
+            <button type="button" className="focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 flex-shrink-0 font-medium rounded-none gap-x-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 underline-offset-4 focus-visible:ring-inset focus-visible:ring-2 focus-visible:ring-primary-500 dark:focus-visible:ring-primary-400 hover:no-underline inline-flex items-center text-left text-lg py-6 w-full" aria-expanded="false">
               <span className="text-gray-900 dark:text-white font-semibold">Quels sont les coûts associés à vos services ?</span>
               <span className="iconify i-heroicons:chevron-down-20-solid ms-auto transform transition-transform duration-200 flex-shrink-0 mr-1.5 w-6 h-6 -rotate-90" aria-hidden="true" ></span>
             </button>
@@ -53,7 +53,7 @@ export default function Faq() {
             </div>
           </div>
           <div className="w-full flex flex-col divide-y divide-gray-200 dark:divide-gray-800">
-            <button type="button" className="focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 flex-shrink-0 font-medium rounded-none gap-x-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 underline-offset-4 focus-visible:ring-inset focus-visible:ring-2 focus-visible:ring-primary-500 dark:focus-visible:ring-primary-400 hover:no-underline inline-flex items-center text-left text-lg py-6 w-full" id="headlessui-disclosure-button-nSZ7s8siktv-10" aria-expanded="false" aria-controls="headlessui-disclosure-panel-nSZ7s8siktv-11">
+            <button type="button" className="focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 flex-shrink-0 font-medium rounded-none gap-x-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 underline-offset-4 focus-visible:ring-inset focus-visible:ring-2 focus-visible:ring-primary-500 dark:focus-visible:ring-primary-400 hover:no-underline inline-flex items-center text-left text-lg py-6 w-full" aria-expanded="false">
               <span className="text-gray-900 dark:text-white font-semibold">Offrez-vous des services de maintenance pour les sites web ?</span>
               <span className="iconify i-heroicons:chevron-down-20-solid ms-auto transform transition-transform duration-200 flex-shrink-0 mr-1.5 w-6 h-6 -rotate-90" aria-hidden="true" ></span>
             </button>
